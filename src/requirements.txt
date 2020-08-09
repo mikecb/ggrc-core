@@ -13,7 +13,7 @@
 itsdangerous==0.24
 Werkzeug==0.9.3
 SQLAlchemy==0.9.4
-Flask==0.10.1
+Flask==1.0
 Flask-Login==0.2.2
 webassets==0.8
 Flask-Assets==0.8
